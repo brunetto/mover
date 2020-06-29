@@ -1,5 +1,5 @@
 package mover
 
-func V4() string {
-	return "Hi, I'm v4.1"
+func V5() string {
+	return "Hi, I'm v5"
 }
